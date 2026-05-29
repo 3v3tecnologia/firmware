@@ -7,5 +7,8 @@
     ],
     "FIR": [
       { "version": "F016", "url": "https://3v3tecnologia.github.io/firmware/F015.hex" }
+    ],
+    "RIF": [
+      { "version": "R004", "url": "https://3v3tecnologia.github.io/firmware/R004.hex" }
     ]
-  }
+}
