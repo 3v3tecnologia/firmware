@@ -1,0 +1,11 @@
+{
+    "DIR": [
+      { "version": "D018", "url": "https://3v3tecnologia.github.io/firmware/D018.hex" }
+    ],
+    "EMR": [
+      { "version": "E005", "url": "https://3v3tecnologia.github.io/firmware/E005.hex" }
+    ],
+    "FIR": [
+      { "version": "F016", "url": "https://3v3tecnologia.github.io/firmware/F015.hex" }
+    ]
+  }
