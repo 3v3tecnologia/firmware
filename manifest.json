@@ -1,15 +1,15 @@
 {
     "DIR": [
-      { "version": "D018", "url": "https://3v3tecnologia.github.io/firmware/D018.hex" }
+      { "version": "D018", "url": "https://3v3tecnologia.github.io/firmware/D018.hex", "sha": "a1b2c3d" }
     ],
     "EMR": [
-      { "version": "E005", "url": "https://3v3tecnologia.github.io/firmware/E005.hex" }
+      { "version": "E005", "url": "https://3v3tecnologia.github.io/firmware/E005.hex", "sha": "e4f5a6b" }
     ],
     "FIR": [
-      { "version": "F015", "url": "https://3v3tecnologia.github.io/firmware/F015.hex" },
-      { "version": "F017", "url": "https://3v3tecnologia.github.io/firmware/F017.hex" }
+      { "version": "F017", "url": "https://3v3tecnologia.github.io/firmware/F017.hex", "sha": "c7d8e9f" },
+      { "version": "F015", "url": "https://3v3tecnologia.github.io/firmware/F015.hex", "sha": "1a2b3c4" }
     ],
     "RIF": [
-      { "version": "R004", "url": "https://3v3tecnologia.github.io/firmware/R004.hex" }
+      { "version": "R004", "url": "https://3v3tecnologia.github.io/firmware/R004.hex", "sha": "5d6e7f8" }
     ]
 }
