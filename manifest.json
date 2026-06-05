@@ -1,4 +1,5 @@
 {
+    "app_version": "3.3",
     "DIR": [
       { "version": "D018", "url": "https://3v3tecnologia.github.io/firmware/D018.hex", "sha": "a1b2c3d" }
     ],
