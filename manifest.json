@@ -2,6 +2,7 @@
     "app_version": "3.3",
     "DIR": [
       { "version": "D011", "url": "https://3v3tecnologia.github.io/firmware/D011.hex", "sha": "1298739" },
+      { "version": "D013", "url": "https://3v3tecnologia.github.io/firmware/D013.hex", "sha": "0394287" },
       { "version": "D018", "url": "https://3v3tecnologia.github.io/firmware/D018.hex", "sha": "a1b2c3d" },
       { "version": "D019", "url": "https://3v3tecnologia.github.io/firmware/D019.hex", "sha": "5e78d68" }
     ],
