@@ -15,5 +15,6 @@
     ],
     "RIF": [
       { "version": "R004", "url": "https://3v3tecnologia.github.io/firmware/R004.hex", "sha": "5d6e7f8" }
-    ]
+    ],
+    "CIR": []
 }
