@@ -10,6 +10,7 @@
       { "version": "E005", "url": "https://3v3tecnologia.github.io/firmware/E005.hex", "sha": "e4f5a6b" }
     ],
     "FIR": [
+      { "version": "F018", "url": "https://3v3tecnologia.github.io/firmware/F018.hex", "sha": "de3255e" },
       { "version": "F017", "url": "https://3v3tecnologia.github.io/firmware/F017.hex", "sha": "62b7bb4" },
       { "version": "F015", "url": "https://3v3tecnologia.github.io/firmware/F015.hex", "sha": "1a2b3c4" }
     ],
