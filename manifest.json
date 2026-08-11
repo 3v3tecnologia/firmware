@@ -18,8 +18,8 @@
       { "version": "R004", "url": "https://3v3tecnologia.github.io/firmware/R004.hex", "sha": "5d6e7f8" }
     ],
     "CIR": [
-      { "version": "v5.15.16", "url": "https://3v3tecnologia.github.io/firmware/v5.15.16.bin", "sha": "a33a0ee" },
       { "version": "v5.15.17", "url": "https://3v3tecnologia.github.io/firmware/v5.15.17.bin", "sha": "80dc78b" },
-      { "version": "v5.15.18", "url": "https://3v3tecnologia.github.io/firmware/v5.15.18.bin", "sha": "7be165f" }
+      { "version": "v5.15.18", "url": "https://3v3tecnologia.github.io/firmware/v5.15.18.bin", "sha": "7be165f" },
+      { "version": "v5.16.00", "url": "https://3v3tecnologia.github.io/firmware/v5.16.00.bin", "sha": "238be41" }
     ]
 }
