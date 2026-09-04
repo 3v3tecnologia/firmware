@@ -21,8 +21,8 @@
     ],
     "CIR": [
       { "version": "v4.20", "url": "https://3v3tecnologia.github.io/firmware/v4.20.bin", "sha": "86a5958", "pinned": true },
-      { "version": "v5.16.08", "url": "https://3v3tecnologia.github.io/firmware/v5.16.08.bin", "sha": "dc4e586" },
       { "version": "v5.16.09", "url": "https://3v3tecnologia.github.io/firmware/v5.16.09.bin", "sha": "ac6f8dd" },
-      { "version": "v5.16.10", "url": "https://3v3tecnologia.github.io/firmware/v5.16.10.bin", "sha": "979cfb4" }
+      { "version": "v5.16.10", "url": "https://3v3tecnologia.github.io/firmware/v5.16.10.bin", "sha": "979cfb4" },
+      { "version": "v5.16.11", "url": "https://3v3tecnologia.github.io/firmware/v5.16.11.bin", "sha": "24fcc79" }
     ]
 }
