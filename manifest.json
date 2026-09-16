@@ -7,6 +7,7 @@
       { "version": "D019", "url": "https://3v3tecnologia.github.io/firmware/D019.hex", "sha": "5e78d68" },
       { "version": "D020", "url": "https://3v3tecnologia.github.io/firmware/D020.hex", "sha": "9febd41" },
       { "version": "D021", "url": "https://3v3tecnologia.github.io/firmware/D021.hex", "sha": "b3904f7" },
+      { "version": "D022", "url": "https://3v3tecnologia.github.io/firmware/D022.hex", "sha": "430d837" },
       { "version": "D023", "url": "https://3v3tecnologia.github.io/firmware/D023.hex", "sha": "b56ed20" }
     ],
     "EMR": [
