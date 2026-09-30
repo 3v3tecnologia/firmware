@@ -14,7 +14,7 @@
       { "version": "F020", "url": "https://3v3tecnologia.github.io/firmware/F020.hex", "sha": "7b228a7" }
     ],
     "RIF": [
-      { "version": "R004", "url": "https://3v3tecnologia.github.io/firmware/R004.hex", "sha": "5d6e7f8" }
+      { "version": "R004", "url": "https://3v3tecnologia.github.io/firmware/R004.hex", "sha": "481351d" }
     ],
     "CIR": [
       { "version": "v4.20", "url": "https://3v3tecnologia.github.io/firmware/v4.20.bin", "sha": "86a5958", "pinned": true },
