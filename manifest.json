@@ -2,8 +2,8 @@
     "app_version": "3.3",
     "DIR": [
       { "version": "D011", "url": "https://3v3tecnologia.github.io/firmware/D011.hex", "sha": "1298739", "pinned": true },
-      { "version": "D023", "url": "https://3v3tecnologia.github.io/firmware/D023.hex", "sha": "b56ed20" },
-      { "version": "D024", "url": "https://3v3tecnologia.github.io/firmware/D024.hex", "sha": "ec50b7d" }
+      { "version": "D024", "url": "https://3v3tecnologia.github.io/firmware/D024.hex", "sha": "ec50b7d" },
+      { "version": "D025", "url": "https://3v3tecnologia.github.io/firmware/D025.hex", "sha": "c590337" }
     ],
     "EMR": [
       { "version": "E002", "url": "https://3v3tecnologia.github.io/firmware/E002.hex", "sha": "dbb36ae", "pinned": true },
