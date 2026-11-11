@@ -7,7 +7,8 @@
     ],
     "EMR": [
       { "version": "E002", "url": "https://3v3tecnologia.github.io/firmware/E002.hex", "sha": "dbb36ae", "pinned": true },
-      { "version": "E006", "url": "https://3v3tecnologia.github.io/firmware/E006.hex", "sha": "1959f9d" }
+      { "version": "E006", "url": "https://3v3tecnologia.github.io/firmware/E006.hex", "sha": "1959f9d" },
+      { "version": "E007", "url": "https://3v3tecnologia.github.io/firmware/E007.hex", "sha": "5320d5e" }
     ],
     "FIR": [
       { "version": "F015", "url": "https://3v3tecnologia.github.io/firmware/F015.hex", "sha": "af49dbb", "pinned": true },
